@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Tree, Depth-First Search, Breadth-First Search, Binary Tree
 # Link     : https://leetcode.com/problems/maximum-depth-of-binary-tree/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12264000 (beats 0%)
+# Runtime  : 8 ms (beats 53%)
+# Memory   : 24692000 (beats 73%)
 # Language : python
 # Copyright: (c) 2026 sudhirpvt00-cmd. All rights reserved.
 # Synced by: leetie
@@ -26,5 +26,4 @@ class Solution(object):
         if not root:
             return 0
         
-      
         return 1 + max(self.maxDepth(root.left), self.maxDepth(root.right))
