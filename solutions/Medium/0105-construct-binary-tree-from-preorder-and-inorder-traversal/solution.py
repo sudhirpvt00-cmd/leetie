@@ -3,8 +3,8 @@
 # Difficulty: Medium
 # Tags     : Array, Hash Table, Divide and Conquer, Tree, Binary Tree
 # Link     : https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12340000 (beats 0%)
+# Runtime  : 7 ms (beats 79%)
+# Memory   : 17068000 (beats 72%)
 # Language : python
 # Copyright: (c) 2026 sudhirpvt00-cmd. All rights reserved.
 # Synced by: leetie
