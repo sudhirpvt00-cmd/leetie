@@ -3,8 +3,8 @@
 # Difficulty: Easy
 # Tags     : Array, Dynamic Programming
 # Link     : https://leetcode.com/problems/pascals-triangle-ii/
-# Runtime  : 0 ms (beats 0%)
-# Memory   : 12260000 (beats 0%)
+# Runtime  : 0 ms (beats 100%)
+# Memory   : 12352000 (beats 55%)
 # Language : python
 # Copyright: (c) 2026 sudhirpvt00-cmd. All rights reserved.
 # Synced by: leetie
