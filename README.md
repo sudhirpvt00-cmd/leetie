@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 8 Solved
+## Progress Summary: 9 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -14,3 +14,4 @@
 | pascals-triangle-ii | Pascal's Triangle II | Easy | python | [Problem](https://leetcode.com/problems/pascals-triangle-ii/) | [Solution](./solutions/Easy/0119-pascals-triangle-ii/solution.py) |
 | path-sum | Path Sum | Easy | python | [Problem](https://leetcode.com/problems/path-sum/) | [Solution](./solutions/Easy/0112-path-sum/solution.py) |
 | scramble-string | Scramble String | Hard | python | [Problem](https://leetcode.com/problems/scramble-string/) | [Solution](./solutions/Hard/0087-scramble-string/solution.py) |
+| valid-number | Valid Number | Hard | python | [Problem](https://leetcode.com/problems/valid-number/) | [Solution](./solutions/Hard/0065-valid-number/solution.py) |
